@@ -79,6 +79,7 @@ A continuación, se detallan las rúbricas de evaluación para cada una de las e
 ### Rúbrica Etapa 2:
 
 <img width="316" alt="image" src="https://github.com/user-attachments/assets/e612509a-cb92-45a0-8b66-104e9899c63f">
+
 ## Premios y Reconocimientos
 
 Los premios a entregar son los siguientes:
